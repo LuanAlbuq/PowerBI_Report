@@ -2,6 +2,9 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuanAlbuq/PowerBI_Report/blob/main/LICENSE) 
 
+
+- Link do dashboard: https://app.powerbi.com/view?r=eyJrIjoiZDM0Y2NmNjYtZGFiMC00ZDNmLWFhYzQtYzUzOWYwYTBjMzIwIiwidCI6IjllYTU0ODg0LTE2YmUtNGQyOS05YTRiLWU4MzkzNDQyNWJiNyJ9
+
 # Sobre o projeto
 
 Nesse projeto fiz um report no POWER BI com foco em uma análise descritiva com os dados armazenados em um modelo de banco de dados 
